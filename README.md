@@ -31,72 +31,65 @@ DCSC 커뮤니티 사이트는 동의과학대학교 소프트웨어학과 학�
 
   
 ## DB설계 및 구성
-![DB설계 및 구성](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/75175b6c-3245-491e-b911-844e4efc2ef7)
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/0f0ff622-8bc0-4814-a41c-1769506719d8)
+
 
 ## 화면 구성 및 설명
 
 ## 메인 로그인 화면
-![메인로그인](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/d9c04d3f-7cb2-453e-a9ff-e4fd018528b7)
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/a96ea014-eb85-46a7-ad3d-46a6f5578917)
 
 ## 회원가입 화면
-![회원가입](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/30c9296b-6022-4e85-b77c-162f378470ee)
-
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/d6b09543-50b3-47cc-b876-69610f6d6343)
 
 ## 메인 화면
-![메인화면](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/1805d277-438b-498a-9ae1-4bc8655d6b77)
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/9a759a31-755f-4b7f-9cd3-02b6b5fa5843)
 
 ## 익명 채팅방 화면
-![익명채팅방](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/e7924325-3bd1-41a6-b2da-31f5fa72c20f)
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/a3f80ff9-494f-451a-82c9-75ba2aaa2fb0)
+
+## 프로필 화면
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/db24016e-4878-4d69-b7c5-403ff30f78c9)
 
 
 ## 자유 게시판 화면
-![image](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/dc19f5ba-53be-4850-bf50-4ce339aa4a1c)
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/044a5d4d-3dcb-4f75-8fef-3a7d7666c57f)
 
-
-
-## 자유 게시판 상세 글화면
-![image](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/d11f3a7f-0180-4e78-b19e-85cc89b07a68)
+# 자유 게시판 상세 글화면
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/71c88120-f271-49ff-91cc-99498101a5c3)
 
 
 ## 자유 게시판 글 작성 화면
-![image](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/64ced4eb-e9b3-43a2-ad23-be1d186cb661)
-
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/0441f1a6-bb93-42a6-992e-0defec528dee)
 
 ## 중고 장터 화면
-![image](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/fd0edbb2-7f0f-44fa-8585-2aa8a75eeae7)
-
-
-## 중고장터 글 작성 화면
-![중고장터 글 작성하기](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/1dc40722-fd20-4929-8853-e2da8ac1a0ee)
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/a91b3069-2ae7-49ea-8cd4-f1756595416a)
 
 ## 중고장터 상세 글 화면
-![image](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/1085d780-1481-4dd4-a464-bcc7091fe1c5)
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/9104b5f8-8335-4d08-bc0c-6f02a50c64e7)
 
+## 관리자 장터관리 화면
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/a452a7ad-534d-4070-bf04-9d96d0967590)
 
 ## 관리자 로그인 화면
-![관리자 로그인](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/476787c5-f3e6-4eea-bbfb-5b9940f3e7a1)
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/e9654265-7c5e-445b-8e4e-d144e6a20f7c)
 
 ## 관리자 가입 관리 화면
-![image](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/bf57a33b-3d0b-458d-b4b4-7daa84d025d9)
-
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/5cada709-1215-40de-8345-1d4fdfdd803b)
 
 ## 관리자 게시글 관리 화면
-![image](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/9eb1e3e6-e978-4403-82d7-486ed363bdf2)
-
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/2af784dc-d62a-417f-be3f-c42d9122d9d3)
 
 ## 관리자 회원 관리 화면
-![image](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/ac91370c-6122-485e-b2ab-ea1b693412c8)
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/40f8bf15-ec3d-41db-852c-c54c7a060d43)
 
-
-## 관리자 장터 관리 화면
-![관리자 장터 관리](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/b77e15a0-2f34-4f21-8552-7259ca72b661)
+## 채용공고 화면
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/c9c093dc-2ed6-4dcb-a4f3-3b29eb63862b)
 
 ## 쪽지 보내기 화면
-![쪽지 보내기](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/68e1e3a4-6015-4494-bc7e-d93ef3231a3a)
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/41345886-7dff-4241-8369-91be86435ab6)
 
 ## 쪽지 내역 화면
-![image](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/2bf4819a-909f-4de1-bb38-b1f78cc22e35)
+![image](https://github.com/wjsrudals411/DIT_Community_Board/assets/103473959/82461a11-42bb-4e9f-962f-96a28753c678)
 
-## 장터 작성자 쪽지 보내기 화면
-![장터 작성자 쪽지 보내기](https://github.com/wjsrudals411/JSP_BoardMarket/assets/103473959/c34aaab0-a80d-45e8-8905-15f6c49c175a)
 
